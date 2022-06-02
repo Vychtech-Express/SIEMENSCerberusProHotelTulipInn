@@ -45,7 +45,7 @@
 #### Электрощитовая
 ![IMG_20150630_113402](https://user-images.githubusercontent.com/104857185/171551054-552d006e-9f88-4a3f-999e-3f87100e843f.jpg)
 
-#### Кроссовая
+#### Кроссовая (щиток СКУД SIEMENS SiPass)
 ![IMG_20150629_160440](https://user-images.githubusercontent.com/104857185/171551183-b7dfc6ae-b3be-4380-b0a2-7a985f5e9342.jpg)
 
 #### Панель (шлюз, GAP)
