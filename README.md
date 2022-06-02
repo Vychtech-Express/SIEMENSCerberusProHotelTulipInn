@@ -53,6 +53,12 @@
 ![IMG_2344](https://user-images.githubusercontent.com/104857185/171548538-adaf07c6-2667-432d-8b88-5bef3eecef25.JPG)
 ![IMG_3910](https://user-images.githubusercontent.com/104857185/171548677-8794353e-a46c-4213-ae97-0e60459167fe.JPG)
 
+#### Насосная станция
+![IMG_20151022_134003](https://user-images.githubusercontent.com/104857185/171644161-fdc885ca-2988-4065-a697-fd046053a5c7.jpg)
+![IMG_20160411_122546](https://user-images.githubusercontent.com/104857185/171644258-27dd57db-adf4-419e-b577-3c0ef4aebf9a.jpg)
+![IMG_2310](https://user-images.githubusercontent.com/104857185/171644438-72128e1c-64b0-40e9-ac6a-921d92668b52.JPG)
+![IMG_20151022_133944](https://user-images.githubusercontent.com/104857185/171644584-ff9fdad6-c4c9-442c-990c-dd0fc08f75b2.jpg)
+
 #### Версия конфигуратора
 ![Версия конфигуратора v5](https://user-images.githubusercontent.com/104857185/171548880-fb27f276-4a2c-4ce1-ad53-e8875bc1b63c.png)
 
