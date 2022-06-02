@@ -51,7 +51,6 @@
 #### Панель (шлюз, GAP)
 ![IMG_2343](https://user-images.githubusercontent.com/104857185/171548498-2049a70e-4ba5-498e-9257-2e326e664941.JPG)
 ![IMG_2344](https://user-images.githubusercontent.com/104857185/171548538-adaf07c6-2667-432d-8b88-5bef3eecef25.JPG)
-![IMG_3910](https://user-images.githubusercontent.com/104857185/171548677-8794353e-a46c-4213-ae97-0e60459167fe.JPG)
 
 #### Насосная станция
 ![IMG_20151022_134003](https://user-images.githubusercontent.com/104857185/171644161-fdc885ca-2988-4065-a697-fd046053a5c7.jpg)
