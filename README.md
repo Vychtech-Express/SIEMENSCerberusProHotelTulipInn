@@ -71,3 +71,5 @@ https://www.google.com/maps/place/Omega+Sirius/@43.4109058,39.9514282,822m/data=
 
 #### Противодымная вентиляция
 ![Противодымная вентиляция](https://user-images.githubusercontent.com/106453326/171640458-b379ad01-541b-488d-a814-b44ce65ebee5.jpg)
+
+Указания по считыванию топологии, конфигурированию, рисованию проекта в ММ-ке см. в https://github.com/tsv19su254052/SIEMENSCerberusProAirPortPlatov
