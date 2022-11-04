@@ -68,7 +68,7 @@ https://www.google.com/maps/place/Omega+Sirius/@43.4109058,39.9514282,822m/data=
 ![Вкладка с лицензиями (без ключа)](https://user-images.githubusercontent.com/104857185/171549129-4e9423c0-231b-4a6e-8cb3-b7a97b75a593.png)
 ![Вкладка с лицензиями (с ключем)](https://user-images.githubusercontent.com/104857185/171549147-42a2dc00-d1ac-4565-b2d6-cf9d5e1aedb6.png)
 
-#### Противодымная вентиляция
+#### Схема противодымной вентиляции в аксонометрии (черновик)
 ![Противодымная вентиляция](https://user-images.githubusercontent.com/106453326/171640458-b379ad01-541b-488d-a814-b44ce65ebee5.jpg)
 
 Указания по считыванию топологии, конфигурированию, рисованию проекта в ММ-ке см. в https://github.com/tsv19su254052/SIEMENSCerberusProAirPortPlatov
