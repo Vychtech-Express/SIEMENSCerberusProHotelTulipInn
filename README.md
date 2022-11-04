@@ -36,10 +36,10 @@ https://www.google.com/maps/place/Omega+Sirius/@43.4109058,39.9514282,822m/data=
 ![PICT0059](https://user-images.githubusercontent.com/104857185/171550450-5b5c229d-0bb5-487e-829b-9ec30dec43ac.JPG)
 ![IMG_3168](https://user-images.githubusercontent.com/104857185/171550510-f834d6e6-6685-40da-914d-7dfb652888ef.JPG)
 
-#### Пожарный пост (Видеонаблюдение)
+#### Пожарный пост в комнате "Видеонаблюдение"
 ![IMG_2661](https://user-images.githubusercontent.com/104857185/171548365-84384d6e-7aac-45c0-a8db-17a550c7548e.JPG)
 
-#### Серверная (газовое пожаротушение)
+#### Газовое пожаротушение в серверной
 ![IMG_2353](https://user-images.githubusercontent.com/104857185/171550757-62a72cc1-5e58-4a6b-a08a-e3fe6b820b14.JPG)
 ![IMG_2359](https://user-images.githubusercontent.com/104857185/171550839-79e3d972-ce6b-44cc-945c-e86375e39a57.JPG)
 ![IMG_2363](https://user-images.githubusercontent.com/104857185/171550903-ebc9909a-f2cf-4602-af9d-6bc91fad9b40.JPG)
@@ -50,7 +50,7 @@ https://www.google.com/maps/place/Omega+Sirius/@43.4109058,39.9514282,822m/data=
 #### Кроссовая (щиток СКУД SIEMENS SiPass)
 ![IMG_20150629_160440](https://user-images.githubusercontent.com/104857185/171551183-b7dfc6ae-b3be-4380-b0a2-7a985f5e9342.jpg)
 
-#### Панель (шлюз, GAP)
+#### Панель (шлюз, GAP) пожарного поста
 ![IMG_2343](https://user-images.githubusercontent.com/104857185/171548498-2049a70e-4ba5-498e-9257-2e326e664941.JPG)
 ![IMG_2344](https://user-images.githubusercontent.com/104857185/171548538-adaf07c6-2667-432d-8b88-5bef3eecef25.JPG)
 
