@@ -39,7 +39,7 @@ https://www.google.com/maps/place/Omega+Sirius/@43.4109058,39.9514282,822m/data=
 #### Пожарный пост в комнате "Видеонаблюдение"
 ![IMG_2661](https://user-images.githubusercontent.com/104857185/171548365-84384d6e-7aac-45c0-a8db-17a550c7548e.JPG)
 
-#### Газовое пожаротушение в серверной
+#### Пульт газового пожаротушения в серверной
 ![IMG_2353](https://user-images.githubusercontent.com/104857185/171550757-62a72cc1-5e58-4a6b-a08a-e3fe6b820b14.JPG)
 ![IMG_2359](https://user-images.githubusercontent.com/104857185/171550839-79e3d972-ce6b-44cc-945c-e86375e39a57.JPG)
 ![IMG_2363](https://user-images.githubusercontent.com/104857185/171550903-ebc9909a-f2cf-4602-af9d-6bc91fad9b40.JPG)
